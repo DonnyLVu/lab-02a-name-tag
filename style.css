@@ -1,0 +1,48 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-color: beige;
+}
+
+main {
+    width: 380px;
+    height: 270px;
+    background-color: red;
+    font-family: Arial;
+    text-align: center;
+    color: white;
+    border-radius: 16px;
+    flex-direction: column;
+}
+
+p {
+  margin: 0;  
+}
+
+.hello {
+    font-size: 4em;
+    font-weight: 1000;
+}
+
+.my-name-is {
+    font-size: 2em;
+    
+}
+
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    background-color: white;
+    color: black;
+    font-family: "Calibri", Cursive;
+    height: 115px;
+    font-size: 3em;
+}
+/* To use comic sans use "Comic Sans MS" or Comic Sans or comic sans*/
