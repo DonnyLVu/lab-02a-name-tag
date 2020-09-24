@@ -50,3 +50,39 @@ section {
 }
 /* To use comic sans use "Comic Sans MS" or Comic Sans or comic sans*/
 
+pink{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+
+
+
+lightgreen{
+
+    display:flex
+
+}
+
+
+lightblue{
+
+    display:flex
+
+}
+
+
+
+
+.pink{
+    color: pink;
+}
+
+.lightgreen{
+    color: lightgreen;
+}
+.lightblue{
+    color: lightblue;
+}
